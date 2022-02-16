@@ -1,0 +1,17 @@
+
+property:
+  test:
+    name: hiProperty
+
+propertyList : a,b,c
+
+country:
+  list:
+    - name : Korea
+      capital : Seoul
+    - name : Japan
+      capital : Tokyo
+    - name : China
+      capital : Beijing
+
+
